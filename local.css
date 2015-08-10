@@ -1,0 +1,81 @@
+.name {
+  margin-top: 5%;
+}
+.info-name {
+  text-align: center;
+}
+.info {
+  text-align: center;
+  font-size: 30px;
+  font-weight: lighter;
+  height: 60px;
+  line-height: 60px;
+}
+.attr {
+  width: 60px;
+  height: 60px;
+}
+.attr-box {
+  width: 45%;
+}
+.des {
+  margin-top: 30px;
+}
+.pokemon {
+  margin-top: 5%;
+}
+.table-des {
+  margin-top: 20px;
+}
+.left-right {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+.stat-point {
+  text-align: center;
+}
+.move {
+  height: 195px;
+}
+.example {
+  margin-top: 5%;
+}
+.pokemon-name {
+  margin-left: 5%;
+}
+.block1 {
+  width: 100px;
+  height: 100px;
+  margin: 2px;
+  line-height: 100px;
+  text-align: center;
+  background-color: #A0A0A0;
+}
+.block2 {
+  width: 204px;
+  height: 204px;
+  margin: 2px;
+  background-color: #A0A0A0;
+}
+.rec1 {
+  width: 100px;
+  height: 300px;
+  background-color: #A0A0A0;
+}
+.pics {
+  width: 100%;
+  height: auto;
+}
+.content {
+  margin-top: 20px;
+}
+.effect {
+  width: 80%;
+  margin-left: 15px;
+}
+.well {
+  margin-bottom: 0px;
+}
+.stats {
+  margin-bottom: 20px;
+}
